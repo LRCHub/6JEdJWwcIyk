@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "プレイ",
+  "base_artist": "Giga",
+  "createdAt": "2025-12-29T15:57:46.991392Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シャドウ・プレイ",
+      "artist": "Tarja",
+      "has_synced": false,
+      "path": "select/01_シャドウ・プレイ_Tarja.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "プレイ・ミンストレル・プレイ",
+      "artist": "Blackmore's Night",
+      "has_synced": true,
+      "path": "select/02_プレイ・ミンストレル・プレイ_Blackmore's_Night.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "プレイ・フォー・ミー",
+      "artist": "From Ashes to New",
+      "has_synced": true,
+      "path": "select/03_プレイ・フォー・ミー_From_Ashes_to_New.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "プレイ！",
+      "artist": "Galileo Galilei",
+      "has_synced": true,
+      "path": "select/04_プレイ!_Galileo_Galilei.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "プレイ・ボール",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/05_プレイ・ボール_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "プレイ・ボール",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/06_プレイ・ボール_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Play Ball (プレイ・ボール)",
+      "artist": "Hikaru Utada",
+      "has_synced": false,
+      "path": "select/07_Play_Ball_(プレイ・ボール)_Hikaru_Utada.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "クラブ・ロッカー(プレイ・アンド・ウィン・リミックス)",
+      "artist": "インナ",
+      "has_synced": false,
+      "path": "select/08_クラブ・ロッカー(プレイ・アンド・ウィン・リミックス)_インナ.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "プレイ・ボール",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/09_プレイ・ボール_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "プレイ・ボール",
+      "artist": "宇多田光",
+      "has_synced": true,
+      "path": "select/10_プレイ・ボール_宇多田光.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "プレイ・ボール",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/11_プレイ・ボール_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "プレイ (Re:rec)",
+      "artist": "heidi.",
+      "has_synced": true,
+      "path": "select/12_プレイ_(Re_rec)_heidi..lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "プレイ",
+      "artist": "しいか",
+      "has_synced": true,
+      "path": "select/13_プレイ_しいか.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "プレイ?ボール",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/14_プレイ_ボール_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "プレイ",
+      "artist": "Giga",
+      "has_synced": false,
+      "path": "select/pl_01_プレイ_Giga.txt"
+    }
+  ]
+}
